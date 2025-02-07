@@ -17,7 +17,7 @@
 - 🎨 **User-Friendly Interface:** Clean, responsive, and easy to navigate.
 
 ## 🛠️ Tech Stack
-- **Frontend:** React.js (`useReducer`, `useState`, `useEffect`)
+- **Frontend:** React.js (`useReducer`, `useEffect`)
 - **Styling:** CSS for layout and design
 
 ## ⚙️ How It Works
@@ -38,4 +38,4 @@
 Think you know React well? 🤔 Take this quiz and **test your knowledge!**  
 Challenge yourself, track your score, and see how much you really know about React. 🚀  
 
-👉 [**Take the Quiz Now!**](#) *(Replace with the live link if deployed)*
+👉 [**Take the Quiz Now!**](https://react-quiz-ankit-bhardwaj.netlify.app/)
