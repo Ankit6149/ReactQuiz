@@ -33,3 +33,9 @@
 3. **Result Calculation:**  
    - The final score is displayed based on the number of correct answers.  
    - Users receive a summary of their performance.
+
+## 🧑‍💻 Test Your React Knowledge!
+Think you know React well? 🤔 Take this quiz and **test your knowledge!**  
+Challenge yourself, track your score, and see how much you really know about React. 🚀  
+
+👉 [**Take the Quiz Now!**](#) *(Replace with the live link if deployed)*
